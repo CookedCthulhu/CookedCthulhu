@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CookedCthulhu!
+- 👀 I’m interested in programming language research, multithreading and... digital art
+- 🌱 I’m currently learning... parsers
