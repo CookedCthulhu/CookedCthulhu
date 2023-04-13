@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @CookedCthulhu!
-- 👀 I’m interested in programming language research, multithreading and digital art
+- 👀 I’m interested in programming language research, low level stuff and digital art
